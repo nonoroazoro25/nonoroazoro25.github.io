@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>GoLang on Ssha Blog</title>
+        <link>http://nonoroazoro25.github.io/categories/golang/</link>
+        <description>Recent content in GoLang on Ssha Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 23 Sep 2015 16:30:37 +0800</lastBuildDate><atom:link href="http://nonoroazoro25.github.io/categories/golang/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>你好，Hugo</title>
+        <link>http://nonoroazoro25.github.io/post/first-post/</link>
+        <pubDate>Wed, 23 Sep 2015 16:30:37 +0800</pubDate>
+        
+        <guid>http://nonoroazoro25.github.io/post/first-post/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>tutorial on Ssha Blog</title>
+        <link>http://nonoroazoro25.github.io/tags/tutorial/</link>
+        <description>Recent content in tutorial on Ssha Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 18 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://nonoroazoro25.github.io/tags/tutorial/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hugo tutorial</title>
+        <link>http://nonoroazoro25.github.io/post/tech/tutorial/</link>
+        <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://nonoroazoro25.github.io/post/tech/tutorial/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
