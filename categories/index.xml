@@ -17,21 +17,3 @@
         
     </channel>
 </rss>
-
-        <link>http://nonoroazoro25.github.io/categories/tutorial/</link>
-        <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
-        
-        <guid>http://nonoroazoro25.github.io/categories/tutorial/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Example Category</title>
-        <link>http://nonoroazoro25.github.io/categories/example-category/</link>
-        <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
-        
-        <guid>http://nonoroazoro25.github.io/categories/example-category/</guid>
-        <description></description>
-        </item>
-        
-    </channel>
-</rss>
