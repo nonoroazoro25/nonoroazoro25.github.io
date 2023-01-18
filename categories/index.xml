@@ -7,15 +7,17 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Wed, 18 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://nonoroazoro25.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Development</title>
-        <link>http://nonoroazoro25.github.io/categories/development/</link>
-        <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+        <title>Example Category</title>
+        <link>http://nonoroazoro25.github.io/categories/example-category/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://nonoroazoro25.github.io/categories/development/</guid>
+        <guid>http://nonoroazoro25.github.io/categories/example-category/</guid>
         <description></description>
         </item>
-        <item>
-        <title>tutorial</title>
+        
+    </channel>
+</rss>
+
         <link>http://nonoroazoro25.github.io/categories/tutorial/</link>
         <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
         
