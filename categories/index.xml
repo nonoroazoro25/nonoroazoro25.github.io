@@ -5,15 +5,6 @@
         <link>http://nonoroazoro25.github.io/categories/</link>
         <description>Recent content in Categories on Ssha Blog</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Wed, 18 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://nonoroazoro25.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Example Category</title>
-        <link>http://nonoroazoro25.github.io/categories/example-category/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://nonoroazoro25.github.io/categories/example-category/</guid>
-        <description></description>
-        </item>
-        
+        <language>en-us</language><atom:link href="http://nonoroazoro25.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>

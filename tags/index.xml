@@ -5,31 +5,6 @@
         <link>http://nonoroazoro25.github.io/tags/</link>
         <description>Recent content in Tags on Ssha Blog</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Wed, 18 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://nonoroazoro25.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Development</title>
-        <link>http://nonoroazoro25.github.io/tags/development/</link>
-        <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
-        
-        <guid>http://nonoroazoro25.github.io/tags/development/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>tutorial</title>
-        <link>http://nonoroazoro25.github.io/tags/tutorial/</link>
-        <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
-        
-        <guid>http://nonoroazoro25.github.io/tags/tutorial/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Example Tag</title>
-        <link>http://nonoroazoro25.github.io/tags/example-tag/</link>
-        <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
-        
-        <guid>http://nonoroazoro25.github.io/tags/example-tag/</guid>
-        <description></description>
-        </item>
-        
+        <language>en-us</language><atom:link href="http://nonoroazoro25.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
