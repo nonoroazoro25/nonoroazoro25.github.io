@@ -1,16 +1,138 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Ssha Blog</title>
+        <title>Ssha blog</title>
         <link>http://nonoroazoro25.github.io/</link>
-        <description>Recent content on Ssha Blog</description>
+        <description>Recent content on Ssha blog</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="http://nonoroazoro25.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title></title>
-        <link>http://nonoroazoro25.github.io/</link>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 18 Jan 2023 14:38:24 +0800</lastBuildDate><atom:link href="http://nonoroazoro25.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>2202年度总结</title>
+        <link>http://nonoroazoro25.github.io/p/2202%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</link>
+        <pubDate>Wed, 18 Jan 2023 14:38:24 +0800</pubDate>
+        
+        <guid>http://nonoroazoro25.github.io/p/2202%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>周记</title>
+        <link>http://nonoroazoro25.github.io/p/%E5%91%A8%E8%AE%B0/</link>
+        <pubDate>Wed, 18 Jan 2023 14:37:50 +0800</pubDate>
+        
+        <guid>http://nonoroazoro25.github.io/p/%E5%91%A8%E8%AE%B0/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Archives</title>
+        <link>http://nonoroazoro25.github.io/archives/</link>
+        <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <guid>http://nonoroazoro25.github.io/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Hello World</title>
+        <link>http://nonoroazoro25.github.io/p/hello-world/</link>
+        <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <guid>http://nonoroazoro25.github.io/p/hello-world/</guid>
+        <description>&lt;img src="http://nonoroazoro25.github.io/p/hello-world/cover.jpg" alt="Featured image of post Hello World" /&gt;&lt;p&gt;Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!&lt;/p&gt;
+&lt;p&gt;For more information about this theme, check the documentation: &lt;a class=&#34;link&#34; href=&#34;https://docs.stack.jimmycai.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://docs.stack.jimmycai.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Want a site like this?&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>hugo 搭建博客记录</title>
+        <link>http://nonoroazoro25.github.io/p/hugo-%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E8%AE%B0%E5%BD%95/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://nonoroazoro25.github.io/</guid>
+        <guid>http://nonoroazoro25.github.io/p/hugo-%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E8%AE%B0%E5%BD%95/</guid>
+        <description>&lt;h1 id=&#34;环境搭建&#34;&gt;环境搭建&lt;/h1&gt;
+&lt;p&gt;官网：https://gohugo.io/
+中文官网：https://www.gohugo.org/
+&lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/installation/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://gohugo.io/installation/&lt;/a&gt;
+选择自己操作系统的hugo安装
+查看hugo版本：hugo version
+有输出代表安装成功&lt;/p&gt;
+&lt;h1 id=&#34;初始建站&#34;&gt;初始建站&lt;/h1&gt;
+&lt;p&gt;hugo new site [name]
+cd theme
+下载主题
+&lt;a class=&#34;link&#34; href=&#34;https://themes.gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://themes.gohugo.io/&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;配置文件修改&#34;&gt;配置文件修改&lt;/h1&gt;
+&lt;p&gt;theme = &amp;lsquo;hugo-theme-stack&amp;rsquo;&lt;/p&gt;
+&lt;h1 id=&#34;创建文章&#34;&gt;创建文章&lt;/h1&gt;
+&lt;p&gt;hugo new post/first-post.md&lt;/p&gt;
+&lt;h1 id=&#34;启动hugo&#34;&gt;启动hugo&lt;/h1&gt;
+&lt;p&gt;hugo server
+访问 localhost:1313&lt;/p&gt;
+&lt;h1 id=&#34;部署到github&#34;&gt;部署到github&lt;/h1&gt;
+&lt;p&gt;新建仓库 nonoroazoro25.github.io&lt;/p&gt;
+&lt;p&gt;博客根目录下 输入命令：hugo   生成public文件夹&lt;/p&gt;
+&lt;p&gt;cd public
+git init
+git remote add origin &lt;a class=&#34;link&#34; href=&#34;https://github.com/Github&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/Github&lt;/a&gt; 用户名/Github 用户名.github.io.git # 将本地目录链接到远程服务器的代码仓库
+【git remote add origin &lt;a class=&#34;link&#34; href=&#34;https://github.com/nonoroazoro25/nonoroazoro25.github.io.git&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/nonoroazoro25/nonoroazoro25.github.io.git&lt;/a&gt;】
+git add .
+git commit -m &amp;ldquo;[介绍，随便写点什么，比如日期]&amp;rdquo;
+git push -u origin master
+【记得修改配置文件：baseURL = &amp;lsquo;&lt;a class=&#34;link&#34; href=&#34;http://nonoroazoro25.github.io/%27&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://nonoroazoro25.github.io/&#39;&lt;/a&gt;】&lt;/p&gt;
+&lt;h1 id=&#34;每次修改后提交命令&#34;&gt;每次修改后提交命令&lt;/h1&gt;
+&lt;p&gt;在blog目录下输入 hugo
+cd public
+git add .
+git commit -m “”
+git push -u origin master&lt;/p&gt;
+&lt;h1 id=&#34;hugo相关命令&#34;&gt;hugo相关命令&lt;/h1&gt;
+</description>
+        </item>
+        <item>
+        <title>Links</title>
+        <link>http://nonoroazoro25.github.io/links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://nonoroazoro25.github.io/links/</guid>
+        <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
+&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;nt&#34;&gt;links&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.com&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://www.typescriptlang.org&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ts-logo-128.jpg&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>http://nonoroazoro25.github.io/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://nonoroazoro25.github.io/search/</guid>
         <description></description>
         </item>
         
