@@ -6,23 +6,7 @@
         <description>Recent content on 白鲨莎莎</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 18 Jan 2023 14:38:24 +0800</lastBuildDate><atom:link href="http://nonoroazoro25.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>2202年度总结</title>
-        <link>http://nonoroazoro25.github.io/p/2202%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</link>
-        <pubDate>Wed, 18 Jan 2023 14:38:24 +0800</pubDate>
-        
-        <guid>http://nonoroazoro25.github.io/p/2202%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>周记</title>
-        <link>http://nonoroazoro25.github.io/p/%E5%91%A8%E8%AE%B0/</link>
-        <pubDate>Wed, 18 Jan 2023 14:37:50 +0800</pubDate>
-        
-        <guid>http://nonoroazoro25.github.io/p/%E5%91%A8%E8%AE%B0/</guid>
-        <description></description>
-        </item>
-        <item>
+        <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://nonoroazoro25.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Archives</title>
         <link>http://nonoroazoro25.github.io/archives/</link>
         <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
@@ -70,7 +54,7 @@ cd theme
 &lt;p&gt;hugo server
 访问 localhost:1313&lt;/p&gt;
 &lt;h1 id=&#34;部署到github&#34;&gt;部署到github&lt;/h1&gt;
-&lt;p&gt;新建仓库 nonoroazoro25.github.io&lt;/p&gt;
+&lt;h2 id=&#34;新建仓库-nonoroazoro25githubio&#34;&gt;新建仓库 nonoroazoro25.github.io&lt;/h2&gt;
 &lt;p&gt;博客根目录下 输入命令：hugo   生成public文件夹&lt;/p&gt;
 &lt;p&gt;cd public
 git init
@@ -133,6 +117,14 @@ git push -u origin master&lt;/p&gt;
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>http://nonoroazoro25.github.io/search/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>tech</title>
+        <link>http://nonoroazoro25.github.io/categories/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://nonoroazoro25.github.io/categories/</guid>
         <description></description>
         </item>
         

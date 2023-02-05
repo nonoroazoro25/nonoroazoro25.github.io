@@ -2,14 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://nonoroazoro25.github.io/p/2202%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</loc>
-    <lastmod>2023-01-18T14:38:24+08:00</lastmod>
+    <loc>http://nonoroazoro25.github.io/archives/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://nonoroazoro25.github.io/p/hello-world/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://nonoroazoro25.github.io/page/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://nonoroazoro25.github.io/post/</loc>
-    <lastmod>2023-01-18T14:38:24+08:00</lastmod>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://nonoroazoro25.github.io/</loc>
-    <lastmod>2023-01-18T14:38:24+08:00</lastmod>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -21,14 +27,7 @@
                 href="http://nonoroazoro25.github.io/"
                 />
   </url><url>
-    <loc>http://nonoroazoro25.github.io/p/%E5%91%A8%E8%AE%B0/</loc>
-    <lastmod>2023-01-18T14:37:50+08:00</lastmod>
-  </url><url>
-    <loc>http://nonoroazoro25.github.io/archives/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://nonoroazoro25.github.io/categories/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -40,20 +39,13 @@
                 href="http://nonoroazoro25.github.io/categories/"
                 />
   </url><url>
-    <loc>http://nonoroazoro25.github.io/categories/example-category/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+    <loc>http://nonoroazoro25.github.io/p/hugo-%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E8%AE%B0%E5%BD%95/</loc>
   </url><url>
-    <loc>http://nonoroazoro25.github.io/tags/example-tag/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+    <loc>http://nonoroazoro25.github.io/links/</loc>
   </url><url>
-    <loc>http://nonoroazoro25.github.io/p/hello-world/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://nonoroazoro25.github.io/page/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+    <loc>http://nonoroazoro25.github.io/search/</loc>
   </url><url>
     <loc>http://nonoroazoro25.github.io/tags/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -65,10 +57,6 @@
                 href="http://nonoroazoro25.github.io/tags/"
                 />
   </url><url>
-    <loc>http://nonoroazoro25.github.io/p/hugo-%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E8%AE%B0%E5%BD%95/</loc>
-  </url><url>
-    <loc>http://nonoroazoro25.github.io/links/</loc>
-  </url><url>
-    <loc>http://nonoroazoro25.github.io/search/</loc>
+    <loc>http://nonoroazoro25.github.io/categories/</loc>
   </url>
 </urlset>
