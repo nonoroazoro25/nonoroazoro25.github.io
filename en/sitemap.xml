@@ -28,6 +28,7 @@
                 />
   </url><url>
     <loc>http://nonoroazoro25.github.io/categories/</loc>
+    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -39,13 +40,14 @@
                 href="http://nonoroazoro25.github.io/categories/"
                 />
   </url><url>
+    <loc>http://nonoroazoro25.github.io/tags/hugo/</loc>
+    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://nonoroazoro25.github.io/p/hugo-%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E8%AE%B0%E5%BD%95/</loc>
-  </url><url>
-    <loc>http://nonoroazoro25.github.io/links/</loc>
-  </url><url>
-    <loc>http://nonoroazoro25.github.io/search/</loc>
+    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://nonoroazoro25.github.io/tags/</loc>
+    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -56,6 +58,13 @@
                 hreflang="en"
                 href="http://nonoroazoro25.github.io/tags/"
                 />
+  </url><url>
+    <loc>http://nonoroazoro25.github.io/categories/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://nonoroazoro25.github.io/links/</loc>
+  </url><url>
+    <loc>http://nonoroazoro25.github.io/search/</loc>
   </url><url>
     <loc>http://nonoroazoro25.github.io/categories/</loc>
   </url>
