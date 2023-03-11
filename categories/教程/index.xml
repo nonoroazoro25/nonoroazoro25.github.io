@@ -13,13 +13,23 @@
         
         <guid>http://nonoroazoro25.github.io/p/hugo-%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E8%AE%B0%E5%BD%95/</guid>
         <description>&lt;h1 id=&#34;环境搭建&#34;&gt;环境搭建&lt;/h1&gt;
-&lt;p&gt;官网：https://gohugo.io/
-中文官网：https://www.gohugo.org/
+&lt;p&gt;官网：https://gohugo.io/&lt;br&gt;
+中文官网：https://www.gohugo.org/&lt;br&gt;
 &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/installation/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://gohugo.io/installation/&lt;/a&gt;
-选择自己操作系统的hugo安装
-查看hugo版本：hugo version
-有输出代表安装成功&lt;/p&gt;
+    &gt;https://gohugo.io/installation/&lt;/a&gt;&lt;br&gt;
+选择自己操作系统的hugo安装&lt;br&gt;
+查看hugo版本：hugo version&lt;br&gt;
+有输出代表安装成功&lt;br&gt;
+&lt;img src=&#34;http://nonoroazoro25.github.io/Users/ssha/Documents/tools/blog/content/post/tech/tutorial/images/hugo/hogo1.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;alt 属性文本&#34;
+	
+	
+&gt;&lt;/p&gt;
 &lt;h1 id=&#34;初始建站&#34;&gt;初始建站&lt;/h1&gt;
 &lt;p&gt;hugo new site [name]
 cd theme
