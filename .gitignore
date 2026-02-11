@@ -4,5 +4,8 @@ public/
 # Hugo resources
 resources/_gen/
 
+# 草稿目录（不纳入版本库）
+content/drafts/
+
 # OS
 .DS_Store
