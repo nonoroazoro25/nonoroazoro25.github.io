@@ -205,20 +205,14 @@ params:
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 menu:
     main: []
-
-    social:
-        # 取消注释并填写你的社交链接
-        # - identifier: github
-        #   name: GitHub
-        #   url: https://github.com/yourusername
-        #   params:
-        #       icon: brand-github
-
-        # - identifier: twitter
-        #   name: Twitter
-        #   url: https://twitter.com/yourusername
-        #   params:
-        #       icon: brand-twitter
+    # 取消注释并填写你的社交链接后，改为下面格式（注意 social 必须是数组）
+    # social:
+    #     - identifier: github
+    #       name: GitHub
+    #       url: https://github.com/yourusername
+    #       params:
+    #           icon: brand-github
+    social: []
 
 related:
     includeNewer: true
