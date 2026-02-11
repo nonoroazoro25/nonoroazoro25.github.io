@@ -1,0 +1,8 @@
+# Hugo build output
+public/
+
+# Hugo resources
+resources/_gen/
+
+# OS
+.DS_Store
